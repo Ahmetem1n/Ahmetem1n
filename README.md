@@ -2,7 +2,7 @@
 <h3 align="center">I'm Software Developer</h3>
 
 - 🔭 I’m currently working on [Rent A Car Project](https://github.com/Ahmetem1n/RentACarProjectAngular)
-- ⚡ Rent A Car Project Live Server(https://dreamrentacar.azurewebsites.net/)
+- ⚡ Rent A Car Project Live Server : [Rent A Car Project](https://dreamrentacar.azurewebsites.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
